@@ -1,0 +1,39 @@
+p{
+	padding:0;
+	margin: 0;
+	box-sizing: border-box;
+}
+	body{		
+			font-size: 26px;
+			font-family: Impact, cursive;
+		}
+			
+		span{
+			background-color: yellow; 
+		}
+		@font-face{
+			font-family: 'Abhaya Libre Medium';
+			src:url('fonts/20302.ttf');
+                                                font-style: normal;
+                                                font-weight: normal;
+			}
+			div{
+				width: 90%;
+				margin: auto;
+				background-color:white ;
+				padding:20;
+				} 
+		}
+			
+	{
+		text-decoration: none;
+		color: red;
+		font-size: 40px;
+
+	}
+	img{
+		max-width: 100%;
+		height: auto;
+		display: block;
+
+	}
